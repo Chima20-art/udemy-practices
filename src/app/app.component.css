@@ -1,0 +1,7 @@
+.myinput{
+  display: flex;
+  flex-direction: column;
+}
+input, button{
+  width: 8rem;
+}
